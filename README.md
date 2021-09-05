@@ -29,31 +29,31 @@
 
 * Follow along with Python tutorial: OS Module (20 min): https://www.youtube.com/watch?v=tJxcKyFMTGo
 * Execute code examples in separate cells.
-  * import os
-  * print(dir(os))
-  * print(os.getcwd())
-  * os.chdir()
-  * os.listdir()
-  * os.mkdir() - make a new directory folder in the repository
-  * os.makedirs() - make a new directory with a subdirectory in the repository
-  * os.rmdir() - remove the new directory
-  * os.removedirs() - remove the new directory with subdirectory
-  * os.rename()
-  * print(os.stat())
-  * from datetime import datetime
-  * print(datetime.fromtimestamp())
-  * os.walk()
-  * print(os.environ.get('HOME'))
-  * os.path.join()
-  * os.path.basename()
-  * os.path.dirname()
-  * os.path.split()
-  * os.path.exists()
-  * os.path.isdir()
-  * os.path.isfile()
-  * os.path.splitext()
-  * add a comment in a cell with a url for official Python documentation (not shown in the video - Google it)
-  * add a comment in a cell with a url for a tutorial on the OS module in the official documentation (not shown in the video - look through the documentation to find it)
+  * import os  --------DONE
+  * print(dir(os))  --------DONE
+  * print(os.getcwd())  --------DONE
+  * os.chdir()  --------DONE
+  * os.listdir()  --------DONE
+  * os.mkdir() - make a new directory folder in the repository  --------DONE
+  * os.makedirs() - make a new directory with a subdirectory in the repository  --------DONE
+  * os.rmdir() - remove the new directory  --------DONE
+  * os.removedirs() - remove the new directory with subdirectory  --------DONE
+  * os.rename()  --------DONE
+  * print(os.stat())  --------DONE
+  * from datetime import datetime  --------DONE
+  * print(datetime.fromtimestamp())  --------DONE
+  * os.walk()  --------DONE
+  * print(os.environ.get('HOME'))   --------DONE Needed to change to HOMEPATH
+  * os.path.join()  --------DONE
+  * os.path.basename()  --------DONE
+  * os.path.dirname()  --------DONE
+  * os.path.split()  --------DONE
+  * os.path.exists()  --------DONE
+  * os.path.isdir()  --------DONE
+  * os.path.isfile()  --------DONE
+  * os.path.splitext()  --------DONE
+  * add a comment in a cell with a url for official Python documentation (not shown in the video - Google it)  --------DONE Cell 11
+  * add a comment in a cell with a url for a tutorial on the OS module in the official documentation (not shown in the video - look through the documentation to find it)   --------DONE Cell 1
   
 * When you're done make sure you save your file.
 
